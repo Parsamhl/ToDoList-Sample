@@ -17,6 +17,9 @@ namespace ToDoList_sample.Entities
         public string Password { get; set; }
         public RoleEnum Role { get; set; }
 
+        public List<Duty> TaskAddedBy { get; set; }
+
+
 
 
     }

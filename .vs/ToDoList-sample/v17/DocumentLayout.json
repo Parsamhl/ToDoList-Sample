@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\dal\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\dal\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\dal\\configuration\\operatorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\dal\\configuration\\operatorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\dal\\configuration\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\dal\\configuration\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,64 +15,8 @@
       "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\entities\\duty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\dal\\repositories\\operatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\dal\\repositories\\operatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\dal\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\dal\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\contracts\\services\\ioperatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\contracts\\services\\ioperatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\contracts\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\contracts\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\contracts\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\contracts\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\contracts\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\contracts\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\contracts\\repository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\contracts\\repository\\ioperatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\contracts\\repository\\ioperatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\framework\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\framework\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\enums\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|c:\\users\\lion\\source\\repos\\todolist-sample\\todolist-sample\\dal\\configuration\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A69E786-E94D-4A3A-88C4-20F5A89C71E0}|ToDoList-sample\\ToDoList-sample.csproj|solutionrelative:todolist-sample\\dal\\configuration\\taskconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,30 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OperatorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Repositories\\OperatorRepository.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\DAL\\Repositories\\OperatorRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Repositories\\OperatorRepository.cs",
-              "RelativeToolTip": "ToDoList-sample\\DAL\\Repositories\\OperatorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Duty.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Entities\\Duty.cs",
+              "RelativeDocumentMoniker": "ToDoList-sample\\Entities\\Duty.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Entities\\Duty.cs",
+              "RelativeToolTip": "ToDoList-sample\\Entities\\Duty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:14:36.697Z",
+              "WhenOpened": "2024-12-07T08:47:09.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TaskConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Configuration\\TaskConfiguration.cs",
+              "RelativeDocumentMoniker": "ToDoList-sample\\DAL\\Configuration\\TaskConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Configuration\\TaskConfiguration.cs",
+              "RelativeToolTip": "ToDoList-sample\\DAL\\Configuration\\TaskConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:05:26.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ToDoList-sample\\DAL\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "ToDoList-sample\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T08:58:19.332Z",
               "EditorCaption": ""
@@ -121,235 +70,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Configuration\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\DAL\\Configuration\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Configuration\\UserConfiguration.cs",
-              "RelativeToolTip": "ToDoList-sample\\DAL\\Configuration\\UserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:05:04.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OperatorConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Configuration\\OperatorConfiguration.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\DAL\\Configuration\\OperatorConfiguration.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Configuration\\OperatorConfiguration.cs",
-              "RelativeToolTip": "ToDoList-sample\\DAL\\Configuration\\OperatorConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:05:45.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Configuration\\TaskConfiguration.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\DAL\\Configuration\\TaskConfiguration.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Configuration\\TaskConfiguration.cs",
-              "RelativeToolTip": "ToDoList-sample\\DAL\\Configuration\\TaskConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:05:26.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Duty.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Entities\\Duty.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Entities\\Duty.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Entities\\Duty.cs",
-              "RelativeToolTip": "ToDoList-sample\\Entities\\Duty.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:47:09.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Repositories\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\DAL\\Repositories\\TaskRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Repositories\\TaskRepository.cs",
-              "RelativeToolTip": "ToDoList-sample\\DAL\\Repositories\\TaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:14:07.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\DAL\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\DAL\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "ToDoList-sample\\DAL\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:13:40.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IOperatorService.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Services\\IOperatorService.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Contracts\\Services\\IOperatorService.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Services\\IOperatorService.cs",
-              "RelativeToolTip": "ToDoList-sample\\Contracts\\Services\\IOperatorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:12:50.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Contracts\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Services\\IUserService.cs",
-              "RelativeToolTip": "ToDoList-sample\\Contracts\\Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:12:14.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ITaskService.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Services\\ITaskService.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Contracts\\Services\\ITaskService.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Services\\ITaskService.cs",
-              "RelativeToolTip": "ToDoList-sample\\Contracts\\Services\\ITaskService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:11:59.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IOperatorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Repository\\IOperatorRepository.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Contracts\\Repository\\IOperatorRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Repository\\IOperatorRepository.cs",
-              "RelativeToolTip": "ToDoList-sample\\Contracts\\Repository\\IOperatorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:11:37.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ITaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Repository\\ITaskRepository.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Contracts\\Repository\\ITaskRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Repository\\ITaskRepository.cs",
-              "RelativeToolTip": "ToDoList-sample\\Contracts\\Repository\\ITaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:11:04.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Contracts\\Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Contracts\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "ToDoList-sample\\Contracts\\Repository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:10:43.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\FrameWork\\Result.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\FrameWork\\Result.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\FrameWork\\Result.cs",
-              "RelativeToolTip": "ToDoList-sample\\FrameWork\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T09:06:21.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "StatusEnum.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Enums\\StatusEnum.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Enums\\StatusEnum.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Enums\\StatusEnum.cs",
-              "RelativeToolTip": "ToDoList-sample\\Enums\\StatusEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:53:15.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RoleEnum.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Enums\\RoleEnum.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Enums\\RoleEnum.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Enums\\RoleEnum.cs",
-              "RelativeToolTip": "ToDoList-sample\\Enums\\RoleEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:50:24.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Entities\\User.cs",
-              "RelativeToolTip": "ToDoList-sample\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:47:01.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Operator.cs",
               "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Entities\\Operator.cs",
               "RelativeDocumentMoniker": "ToDoList-sample\\Entities\\Operator.cs",
               "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Entities\\Operator.cs",
               "RelativeToolTip": "ToDoList-sample\\Entities\\Operator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T08:46:54.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Program.cs",
-              "RelativeDocumentMoniker": "ToDoList-sample\\Program.cs",
-              "ToolTip": "C:\\Users\\Lion\\source\\repos\\ToDoList-sample\\ToDoList-sample\\Program.cs",
-              "RelativeToolTip": "ToDoList-sample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T08:46:21.089Z",
               "EditorCaption": ""
             }
           ]

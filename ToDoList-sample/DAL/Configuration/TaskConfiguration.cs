@@ -14,6 +14,9 @@ namespace ToDoList_sample.DAL.Configuration
         public void Configure(EntityTypeBuilder<Duty> builder)
         {
             builder.HasKey(x => x.Id);
+            builder.ToTable("tasks");
+
+            
            
         }
     }

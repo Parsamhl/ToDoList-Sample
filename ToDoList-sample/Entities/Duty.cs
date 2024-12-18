@@ -15,6 +15,9 @@ namespace ToDoList_sample.Entities
         public DateTime TimeToDone { get; set; }
         public StatusEnum Status { get; set; }
 
+        public int UserID { get; set; }
+        public int OperatorId { get; set; }
+
         public User User { get; set; }
         public Operator Operator { get; set; }
         

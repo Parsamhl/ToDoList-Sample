@@ -15,6 +15,11 @@ namespace ToDoList_sample.DAL.Configuration
         {
 
             builder.HasKey(x => x.Id);
+            builder.ToTable("users");
+
+            builder.HasMany(x => x.Tasks)
+                .WithOne(x => x.User)
+                .HasForeignKey(x => x.UserID);
         }
     }
 }

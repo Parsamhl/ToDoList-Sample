@@ -4,11 +4,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ToDoList_sample.DAL.Configuration;
 using ToDoList_sample.Entities;
 
 namespace ToDoList_sample.DAL
 {
-    public class AppDbContext :DbContext
+    public class AppDbContext : DbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -18,13 +19,16 @@ namespace ToDoList_sample.DAL
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.ApplyConfiguration(new OperatorConfiguration());
+            modelBuilder.ApplyConfiguration(new UserConfiguration());
+            modelBuilder.ApplyConfiguration(new TaskConfiguration());
             base.OnModelCreating(modelBuilder);
         }
 
 
-        DbSet<User> users {  get; set; }
-        DbSet<Operator> operators { get; set; }
-        DbSet<Duty> tasks { get; set; } 
+        public DbSet<User> users { get; set; }
+        public DbSet<Operator> operators { get; set; }
+        public DbSet<Duty> tasks { get; set; }
 
     }
 }

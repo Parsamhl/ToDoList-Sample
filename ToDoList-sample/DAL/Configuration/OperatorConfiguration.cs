@@ -15,6 +15,7 @@ namespace ToDoList_sample.DAL.Configuration
         {
 
             builder.HasKey(x => x.Id);
+            builder.ToTable("operators");
         }
     }
 }
