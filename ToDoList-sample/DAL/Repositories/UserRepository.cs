@@ -12,24 +12,38 @@ namespace ToDoList_sample.DAL.Repositories
     {
         private readonly AppDbContext _appDbContext;
 
+
         public UserRepository()
         {
             _appDbContext = new AppDbContext();
         }
 
-        public List<Duty> GetAllUserTasks()
+        public void ChangePassword(string userName, string password, string newPassword)
+        {
+            var user = _appDbContext.users.FirstOrDefault(u => u.UserName == userName && u.Password == password);
+            if(user is null)
+            {
+                throw new Exception("User not Foun !");
+            }else
+            {
+                user.Password = newPassword;
+                _appDbContext.SaveChanges();
+            }
+        }
+
+        public void GetTask(int id)
         {
             throw new NotImplementedException();
         }
 
-        public void GetTask(Duty d)
-        {
-           
-        }
+        public User GetUserBy(string userName )
 
-        public User GetUserBy(int id)
-        {
-            throw new NotImplementedException();
-        }
+            => _appDbContext.users.FirstOrDefault(u => u.UserName == userName);
+
+        public bool PasswordValidation(string userName, string password)
+        
+          => _appDbContext.users.Any(u => u.UserName == userName && u.Password == password);
+
+        
     }
 }

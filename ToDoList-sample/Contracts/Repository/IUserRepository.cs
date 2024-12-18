@@ -9,10 +9,12 @@ namespace ToDoList_sample.Contracts.Repository
 {
     public interface IUserRepository
     {
-        User GetUserBy(int id);
-        void GetTask(Duty d);
-        List<Duty> GetAllUserTasks();
-        
+        User GetUserBy(string userName);
+        bool PasswordValidation(string userName, string password);
+        void GetTask(int id);
+        void ChangePassword(string userName, string password, string newPassword);
+
+
 
 
     }

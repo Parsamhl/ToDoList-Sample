@@ -19,7 +19,7 @@ namespace ToDoList_sample.DAL
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfiguration(new OperatorConfiguration());
+            
             modelBuilder.ApplyConfiguration(new UserConfiguration());
             modelBuilder.ApplyConfiguration(new TaskConfiguration());
             base.OnModelCreating(modelBuilder);
@@ -27,7 +27,7 @@ namespace ToDoList_sample.DAL
 
 
         public DbSet<User> users { get; set; }
-        public DbSet<Operator> operators { get; set; }
+      
         public DbSet<Duty> tasks { get; set; }
 
     }

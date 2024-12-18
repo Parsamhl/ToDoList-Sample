@@ -19,7 +19,7 @@ namespace ToDoList_sample.Entities
         public int OperatorId { get; set; }
 
         public User User { get; set; }
-        public Operator Operator { get; set; }
+        
         
     }
 }
